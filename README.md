@@ -1,11 +1,11 @@
-### Hewwo uwu 👋
+## Hello uwu 👋
 
 I'm eemunni and you probs found this profile from my discord kek
 
-I make code sometimes when I'm bored or smth. Huge part of my coding shit is private doe so you only see few of my projects. _(maybe I will make them public idk)_
+I write shitty code when I'm bored or motivated to do shit. I mainly use Node.Js, but I'm learning Java too (mainly for JDA and Minecraft plugins/mods). Few of my projects/repos are private because I don't like to show my bad coding to everyone. I might in future make my repos public who knows :shrug: Currently I'm developing my shitty discord bots (UwU bot & (~˘▾˘)━☆ﾟ.*･｡ﾟ (a music bot)) and both are private ofc.
 
-## Some statistics about me :D
+I watch anime and read manga because I'm no social life owning weeb.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eemunni&&show_icons=true&theme=default&count_private=true)
+### Some epic stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eemunni&&show_icons=true&theme=default&count_private=true)
+![Stats:](https://github-readme-stats.vercel.app/api?username=eemunni&count_private=true&hide=contribs,prs&title_color=ff69b4&bg_color=ffffff&icon_color=ff69b4&show_icons=true&hide_border=true)
