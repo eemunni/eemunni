@@ -12,7 +12,7 @@ I watch anime and read manga because I'm no social life owning weeb.
 
 ### Epic socials
 
-- **Discord:** eemunni#0001 (userid: 503574773259960322)
+- **Discord:** eemu#1248 (userid: 503574773259960322)
 - **Steam:** [eemunni](https://steamcommunity.com/id/eemunni/)
 - **Reddit:** [u/eemunni](https://reddit.com/u/eemunni)
 - **Twitch:** [eemunni](https://www.twitch.tv/eemunni) _I don't stream but I decided to link it still_
